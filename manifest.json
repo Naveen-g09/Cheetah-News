@@ -1,0 +1,15 @@
+{
+  "short_name": "CHEETAH News",
+  "name": "CHEETAH NEWS App",
+  "icons": [
+    {
+      "src": "https://www.nicepng.com/png/detail/63-636114_cheetah-cheetah-icon-png.png",
+      "sizes": "512x512",
+      "type": "image/x-icon"
+    }
+],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
